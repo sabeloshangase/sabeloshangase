@@ -1,3 +1,3 @@
-- Hi, I’m @sabeloshangase.
+- Hi,
 - I’m an entrepreneur.
 - Fun fact: In 2015, Python overtook French as the most popular language taught in primary schools in France.
